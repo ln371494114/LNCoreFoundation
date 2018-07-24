@@ -1,13 +1,13 @@
 //
-//  DKMacros.h
+//  Macros.h
 //  CoreFoundation
 //
 //  Created by 李楠 on 2018/7/24.
 //  Copyright © 2018年 李楠. All rights reserved.
 //
 
-#ifndef DKMacros_h
-#define DKMacros_h
+#ifndef Macros_h
+#define Macros_h
 
 #define kScreenHeight [[UIScreen mainScreen] bounds].size.height
 #define kScreenWidth  [[UIScreen mainScreen] bounds].size.width
@@ -40,4 +40,4 @@
 #define NormalFontOfSize(fontSize)      [UIFont systemFontOfSize:fontSize]
 #define BoldFontOfSize(fontSize)        [UIFont boldSystemFontOfSize:fontSize]
 
-#endif /* DKMacros_h */
+#endif /* Macros_h */
