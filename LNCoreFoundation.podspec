@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "LNCoreFoundation"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "常用的一些宏定义以及help功能"
   s.homepage     = "https://github.com/ln371494114/LNCoreFoundation"
   s.license      = "MIT"
